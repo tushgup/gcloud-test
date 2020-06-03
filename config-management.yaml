@@ -8,7 +8,7 @@ spec:
   # clusterName is required and must be unique among all managed clusters
   clusterName: my-cluster
   git:
-    syncRepo: https://source.developers.google.com/p/tushargup-anthos/r/anthos-acm-install
+    syncRepo: https://github.com/tushgup/gcloud-test.git
     syncBranch: 1.0.0
     secretType: ssh
     policyDir: "foo-corp"
