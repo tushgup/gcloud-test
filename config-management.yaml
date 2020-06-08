@@ -6,7 +6,7 @@ metadata:
   name: config-management
 spec:
   # clusterName is required and must be unique among all managed clusters
-  clusterName: example-cluster
+  clusterName: anthos-cluster
   git:
     syncRepo: git@github.com:tushgup/gcloud-test.git
     syncBranch: 1.0.0
