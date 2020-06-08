@@ -11,4 +11,4 @@ spec:
     syncRepo: git@github.com:tushgup/gcloud-test.git
     syncBranch: 1.0.0
     secretType: ssh
-    policyDir: 
+    policyDir: foo-corp
